@@ -6,8 +6,8 @@ import os
 scriptname = os.path.basename(__file__)
 
 """ 
-Copyright (c) 1987-2014 by Frank Holger Rothkamm. Forth/Coldfusion/Python
-psychostochastics - Classic Csound - humanized random distributions 
+Copyright (c) 2019 by Frank Holger Rothkamm. 
+psychostochastics - classic csound - humanized random distributions 
 ------------------------------------------------------------------------------
 """
 orchestra = '''
